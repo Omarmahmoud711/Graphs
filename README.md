@@ -29,10 +29,6 @@ Prim’s Algorithm is used to find a subset of edges that form a tree covering a
 
 ---
 
-#### Example Output (Graph and Results):
-_(Insert your Dijkstra result images here)_
-
-
 ## Example Run
 1. **Run** `python main.py`.
 2. **Enter the number of vertices** (e.g., `4`).
@@ -43,8 +39,16 @@ _(Insert your Dijkstra result images here)_
    15  5  0  30
    0  20  30  0
    ```
+#### Directed Graph:
+_Images/Directed_Matrix.png_
 
-#### Example Output (Graph and Results):
+#### UnDirected Graph:
+_(Insert your Dijkstra result images here)_
+
+#### Prims output:
+_(Insert your MST result images here)_
+
+#### Dijkstra's output:
 _(Insert your MST result images here)_
 
 ---
