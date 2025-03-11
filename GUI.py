@@ -120,3 +120,8 @@ class MatrixEditor(tk.Tk):
 
     def dijkstra(self):
         MatrixEditorBackend.dijkstra(self)
+
+if __name__ == "__main__":
+    Vn=int(input("Enter the number of Vertices: "))
+    app = MatrixEditor(Vn)
+    app.mainloop()
