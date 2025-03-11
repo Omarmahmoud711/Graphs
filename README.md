@@ -40,7 +40,7 @@ Prim’s Algorithm is used to find a subset of edges that form a tree covering a
    0  20  30  0
    ```
 #### Directed Graph:
-_Images/Directed_Matrix.png_
+![Alt text](Images/Directed_Matrix.png)
 
 #### UnDirected Graph:
 _(Insert your Dijkstra result images here)_
