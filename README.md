@@ -43,13 +43,13 @@ Prim’s Algorithm is used to find a subset of edges that form a tree covering a
 ![Alt text](Images/Directed_Matrix.png)
 
 #### UnDirected Graph:
-_(Insert your Dijkstra result images here)_
+![Alt text](Images/UnDirected_Matrix.png)
 
 #### Prims output:
-_(Insert your MST result images here)_
+![Alt text](Images/Prims.png)
 
 #### Dijkstra's output:
-_(Insert your MST result images here)_
+![Alt text](Images/Dijkstra.png)
 
 ---
 
